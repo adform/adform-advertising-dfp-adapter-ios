@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "GoogleMobileAds.h"
+#import <GoogleMobileAds/GoogleMobileAds.h>
 
 @interface AdformCustomEventBanner : NSObject <GADCustomEventBanner>
 

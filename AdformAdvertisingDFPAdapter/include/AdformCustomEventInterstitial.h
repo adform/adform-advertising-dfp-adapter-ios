@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "GoogleMobileAds.h"
+#import <GoogleMobileAds/GoogleMobileAds.h>
 
 @interface AdformCustomEventInterstitial : NSObject <GADCustomEventInterstitial>
 
